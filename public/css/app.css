@@ -74,7 +74,7 @@ table {
 
 @media only screen and (min-device-width: 1024px) and (min-width: 1024px) {
   body {
-    background: url(../../assets/bg.svg); } }
+    background: url(./../../assets/bg.jpg); } }
 
 header {
   width: 100%;
@@ -90,7 +90,7 @@ header {
       display: flex;
       height: 3rem;
       flex-flow: row wrap;
-      background: url(/../../assets/header_bg.svg) no-repeat center; } }
+      background: url(./../../assets/header_bg.svg) no-repeat center; } }
 
 .plusSign {
   border: 2px solid orange;
@@ -108,14 +108,14 @@ header {
   width: 100%;
   align-items: center;
   justify-content: center;
-  background: url(../../assets/logo.svg) no-repeat left; }
+  background: url(./../../assets/logo.svg) no-repeat left; }
   @media only screen and (min-device-width: 459px) and (max-device-width: 1024px), only screen and (min-device-width: 1024px) and (min-width: 459px) {
     .logo {
       height: 100%;
       width: 100%;
       align-items: center;
       justify-content: center;
-      background: url(../../assets/logo.svg) no-repeat center; } }
+      background: url(./../../assets/logo.svg) no-repeat center; } }
 
 .menu {
   background: #3a3a3c;
